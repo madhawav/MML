@@ -1,4 +1,9 @@
 # Multi-Faceted Moment Localizer
+A PyTorch implementation of Multi-Faceted Moment Localizer, an improved version of [MAC](https://arxiv.org/pdf/1811.08925.pdf) with additional features for better moment localization.
+Newly introduced features include:
+ - Semantic segmentation features from ADE20K [MobileNetV2dilated + C1_deepsup](https://github.com/CSAILVision/semantic-segmentation-pytorch) pretrained model.
+ - Video captioning features
+ - [BERT](https://arxiv.org/abs/1810.04805) Sentence Embeddings
 ## Training the model
 - Download "Object Segmentation Features" and "Video Understanding Features" (Video caption features) from the following link and extract to ./data directory.
   - Link: https://drive.google.com/drive/folders/1z46eCEicPI1HQzDmczC1uXD0HcZT2a-P?usp=sharing
