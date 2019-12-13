@@ -26,8 +26,14 @@ Newly introduced features include:
      [dr-obj 0.50][dr-act 0.00][sr 0.005][csr: 0.005] best_R1_IOU5: 0.319
      [dr-obj 0.50][dr-act 0.00][sr 0.005][csr: 0.005] best_R5_IOU5: 0.652
     ```
+##Contributors
+- [Madhawa Vidanapathirana](https://github.com/madhawav)
+- [Supriya Pandhre](https://github.com/supriya-pandhre)
+- [Sonia Raychaudhuri](https://github.com/sonia-raychaudhuri)
+- [Anjali Khurana](https://github.com/anjali-khurana28)
+
 ## Notes
-This is not the code we used to identify the hyper-parameters used in the mode. This a simplified version of the code released to the public.
+This is not the code we used to identify the hyper-parameters used in the model. This a simplified version of the code released to the public.
 
 Code related to feature extraction of Object Segmentation and Video Captioning will be released in the future.
 
