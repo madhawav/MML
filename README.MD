@@ -19,6 +19,10 @@ Newly introduced features include:
 
 ## Testing Pretrained Model
 1) Follow steps 1-4 of "Training the model" section.
-2) Download the pre-trained model:
+2) Download the pre-trained model and place it in `./checkpoints` directory:
    - Pre-trained model with BERT Sentence Embeddings, Glove VO Embedding, Object Segmentation Features and Video Captioning Features: [Link](https://drive.google.com/file/d/1A2NB2fyS_TTtOvaKbr6AnmKSYA5IYddr/view?usp=sharing).
- 
+3) Final Output:
+    ```bash
+     [dr-obj 0.50][dr-act 0.00][sr 0.005][csr: 0.005] best_R1_IOU5: 0.319
+     [dr-obj 0.50][dr-act 0.00][sr 0.005][csr: 0.005] best_R5_IOU5: 0.652
+    ```
