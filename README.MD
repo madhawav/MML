@@ -26,7 +26,7 @@ Newly introduced features include:
      [dr-obj 0.50][dr-act 0.00][sr 0.005][csr: 0.005] best_R1_IOU5: 0.319
      [dr-obj 0.50][dr-act 0.00][sr 0.005][csr: 0.005] best_R5_IOU5: 0.652
     ```
-##Contributors
+## Contributors
 - [Madhawa Vidanapathirana](https://github.com/madhawav)
 - [Supriya Pandhre](https://github.com/supriya-pandhre)
 - [Sonia Raychaudhuri](https://github.com/sonia-raychaudhuri)
